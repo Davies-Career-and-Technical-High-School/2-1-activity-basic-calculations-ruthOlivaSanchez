@@ -1,0 +1,7 @@
+num= int(input("Enter an integer: "))
+num2=int(num + 1)
+num3=int(num2 + 1)
+num4=int(num3 + 1)
+print(num2)
+print(num3) 
+print(num4)
